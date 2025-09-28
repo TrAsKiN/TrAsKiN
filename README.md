@@ -1,3 +1,3 @@
 ### Hello and welcome to my GitHub profile!
 
-I've been a web developer for over 15 years. I am a passionate self-taught and have since obtained certifications and degrees. I have created various personal and professional projects using the latest technologies when possible and relevant.
+Curious and passionate, I have been immersed in the world of web development for over 20 years. Self-taught by nature, I have built my skills through experimentation, practice, and continuous training, validated by certifications and diplomas. This approach has allowed me to master a wide range of web technologies, from front-end to back-end, including databases. My portfolio showcases my creativity and expertise through a variety of exciting projects. Always on the lookout for the latest innovations, I am enthusiastic about putting my skills to work on new challenges and contributing to ambitious projects.
